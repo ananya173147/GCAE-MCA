@@ -53,6 +53,7 @@ python train.py -lr 1e-2 -batch_size 32 -model gcae_acsa -acsa_data large  -epoc
 # References
 
 - https://github.com/wxue004cs/GCAE (Authors' code)
+- https://github.com/SinclairCoder/GCAE-Reproduce
 - https://github.com/songyouwei/ABSA-PyTorch
 - Maria Pontiki, Dimitrios Galanis, John Pavlopoulos, Haris Papageorgiou, Ion Androutsopoulos, and Suresh Manandhar. 2014. Semeval-2014 task 4: Aspect based sentiment analysis. In SemEval@COLING, pages 27–35, Stroudsburg, PA, USA. Association for Computational Linguistics. 
 - Chen, Y., Fan, H., Xu, B., Yan, Z., Kalantidis, Y., Rohrbach, M., Yan, S., & Feng, J. (2019). Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks With Octave Convolution. 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 3434-3443.
